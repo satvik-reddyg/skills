@@ -1,1 +1,4 @@
 skills
+1.program solving
+2.data structures
+3.smart working
